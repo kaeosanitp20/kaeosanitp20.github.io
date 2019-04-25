@@ -9,7 +9,7 @@ order: 1
 # React Simple Chatbot
 
 Welcome to Marshall Museum
-<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiC7OC-oOvhAhXvUt8KHaI3AoEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.virginia.org%2Flistings%2FMuseums%2FGeorgeCMarshallMuseum%2F&psig=AOvVaw1yQZh8eEKtIN-YA3RtEb5o&ust=1556282023961262">
+<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiC7OC-oOvhAhXvUt8KHaI3AoEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.virginia.org%2Flistings%2FMuseums%2FGeorgeCMarshallMuseum%2F&psig=AOvVaw1yQZh8eEKtIN-YA3RtEb5o&ust=1556282023961262" alt="Codecov" />
 <a href="https://travis-ci.org/LucasBassetti/react-simple-chatbot"><img src="https://travis-ci.org/LucasBassetti/react-simple-chatbot.svg?branch=master" alt="Travis CI" /></a> <a href="https://badge.fury.io/js/react-simple-chatbot"><img src="https://badge.fury.io/js/react-simple-chatbot.svg" alt="npm version"></a>
   <img src="https://codecov.io/gh/LucasBassetti/react-simple-chatbot/branch/master/graph/badge.svg" alt="Codecov" />
 </a> <a href="https://beerpay.io/LucasBassetti/react-simple-chatbot"><img src="https://beerpay.io/LucasBassetti/react-simple-chatbot/badge.svg?style=flat" /></a>
